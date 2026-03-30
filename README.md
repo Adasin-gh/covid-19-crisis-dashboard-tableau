@@ -16,5 +16,3 @@ An interactive dashboard built using Tableau to analyze global COVID-19 trends, 
 
 ## 🔗 Live Demo
 https://public.tableau.com/app/profile/adarsh.singh6059/viz/covid-19crisis/Covid-19
-## 📸 Dashboard Preview
-![Dashboard](Covid-19Dashboard.png)
