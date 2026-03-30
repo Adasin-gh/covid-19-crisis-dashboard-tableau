@@ -1,19 +1,20 @@
-# COVID-19-crisisDashboard (Tableau)
+# 🦠 COVID-19-crisis-Dashboard (Tableau)
 
-## 📊 Project Overview
-This project is an interactive COVID-19 dashboard built using Tableau to analyze global pandemic trends.
+## 📊 Overview
+An interactive dashboard built using Tableau to analyze global COVID-19 trends, vaccination progress, and regional insights.
 
 ## 🚀 Features
-- Global case analysis
-- Vaccination tracking
-- Regional insights and trends
+- 📈 Global case analysis   
+- 🌍 Region-wise insights  
 
 ## 🛠️ Tools Used
-- Tableau
-- Data Visualization
+- Tableau  
+- Data Visualization  
 
-## 🔗 Live Dashboard
+## 📸 Dashboard Preview
+![Dashboard](Covid-19Dashboard.png)
+
+## 🔗 Live Demo
 https://public.tableau.com/app/profile/adarsh.singh6059/viz/covid-19crisis/Covid-19
-
 ## 📸 Dashboard Preview
 ![Dashboard](Covid-19Dashboard.png)
